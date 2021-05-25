@@ -48,6 +48,6 @@ if __name__ == "__main__":
     P = grammar['P']
     start_symbol = grammar['start_symbol']
 
-    parse = 'aaaacadeebbb'
+    parse = 'dgcfdg'
 
     run(P, start_symbol, VN, VT, parse)
